@@ -54,3 +54,13 @@ Requirements: Wazuh Manager on another system with a static IP address
 ## Completed!
 
 ![Wazuh Dashboard](https://github.com/RLeary04/WazuhCowrieSIEMProject/blob/main/WazuhDashboard.png)
+
+--- 
+
+## Resources Used
+[Building a Cowrie SSH Honeypot with Wazuh Integration](https://medium.com/@maryamliaqat4583/building-a-cowrie-ssh-honeypot-with-wazuh-integration-a-hands-on-soc-lab-guide-d89b2430076d)
+
+[Cowrie GitHub Repo](https://github.com/cowrie/cowrie)
+
+[Cowrie Docs](https://docs.cowrie.org/en/latest/index.html)
+
