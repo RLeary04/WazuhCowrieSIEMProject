@@ -1,8 +1,8 @@
 # Procedure
 ___
 Requirements: Wazuh Manager on another system with a static IP address 
-[[Steps to set static IP in Wazuh Manager]]
-![[Pasted image 20260823114623.png]]
+[Steps to set static IP in Wazuh Manager]()
+![Wazuh Manager IP](https://github.com/RLeary04/WazuhCowrieSIEMProject/blob/main/WazuhManagerIP.png?raw=true)
 
 1. Create Ubuntu Server (version 24.04 LTS) instance in virtual box
 2. In the Ubuntu server, create a new user to run Cowrie under
@@ -47,8 +47,9 @@ Requirements: Wazuh Manager on another system with a static IP address
 		`sudo systemctl restart wazuh-agent`
 14. Verify Agent is running in Wazuh Manager
 
-Completed!
+![Wazuh Agent Installed](https://github.com/RLeary04/WazuhCowrieSIEMProject/blob/main/WazuhAgentInstalled.png)
 
-![[Pasted image 20260824152827.png]]
 
-![[Pasted image 20260824151405.png]]
+## Completed!
+
+![Wazuh Dashboard](https://github.com/RLeary04/WazuhCowrieSIEMProject/blob/main/WazuhDashboard.png)
