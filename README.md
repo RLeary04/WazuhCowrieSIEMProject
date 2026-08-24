@@ -1,7 +1,8 @@
 # Procedure
 ___
 Requirements: Wazuh Manager on another system with a static IP address 
-[Steps to set static IP in Wazuh Manager]()
+
+[Steps to set static IP in Wazuh Manager](https://github.com/RLeary04/WazuhCowrieSIEMProject/blob/main/Steps%20to%20set%20static%20IP%20in%20Wazuh%20Manager.md)
 ![Wazuh Manager IP](https://github.com/RLeary04/WazuhCowrieSIEMProject/blob/main/WazuhManagerIP.png?raw=true)
 
 1. Create Ubuntu Server (version 24.04 LTS) instance in virtual box
