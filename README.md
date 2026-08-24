@@ -42,7 +42,7 @@ Requirements: Wazuh Manager on another system with a static IP address
 12.  Edit the agent configuration file (/var/ossec/etc/ossec.conf) to monitor for Cowrie logs
 		`<localfile>`
 			`<location>/home/cowrie/cowrie/var/log/cowrie/cowrie.json</location>`
-			`<log_format>json</log_format>  
+			`<log_format>json</log_format>`
 		`</localfile>`
 13. Restart Wazuh agent
 		`sudo systemctl restart wazuh-agent`
